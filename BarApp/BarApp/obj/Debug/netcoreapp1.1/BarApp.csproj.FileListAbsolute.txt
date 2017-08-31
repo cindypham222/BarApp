@@ -1,0 +1,10 @@
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\bin\Debug\netcoreapp1.1\BarApp.deps.json
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\bin\Debug\netcoreapp1.1\BarApp.runtimeconfig.json
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\bin\Debug\netcoreapp1.1\BarApp.runtimeconfig.dev.json
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\bin\Debug\netcoreapp1.1\BarApp.dll
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\obj\Debug\netcoreapp1.1\BarApp.csprojResolveAssemblyReference.cache
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\obj\Debug\netcoreapp1.1\BarApp.csproj.CoreCompileInputs.cache
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\obj\Debug\netcoreapp1.1\BarApp.AssemblyInfo.cs
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\bin\Debug\netcoreapp1.1\BarApp.pdb
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\obj\Debug\netcoreapp1.1\BarApp.dll
+C:\Users\cindy\Documents\Visual Studio 2017\VSProjects\BarApp\BarApp\obj\Debug\netcoreapp1.1\BarApp.pdb
